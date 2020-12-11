@@ -19,8 +19,8 @@ export default {
           userAssigned: null
         },
         {
-          description: '',
-          name: 'and thrid',
+          description: 'some description',
+          name: 'and third',
           id: uuid(),
           userAssigned: null
         }
